@@ -7,8 +7,6 @@ Site Testado
 
 Nome: TechFuture Store.
 
-Funcionalidades Avaliadas: Cadastro, Login, Busca e Formulário de Contato.
+Funcionalidades Avaliadas: Cadastro, Login, Busca e Formulário de Contato 
 
- Ferramentas Utilizadas
-
-    Git/GitHub: Para controle de versão e publicação.
+Ferramentas Utilizadas    Git/GitHub: Para controle de versão e publicação.
